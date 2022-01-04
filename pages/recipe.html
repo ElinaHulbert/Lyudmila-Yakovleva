@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <link rel="stylesheet" href="../styles/recipe.css">
+ <link rel="stylesheet" href="../styles/mediarecipe.css">
+ <link rel="stylesheet" href="../styles/navbar.css">
+ <title>Random Recipes</title>
+ 
+ <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&family=Sacramento&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Josefin+Slab:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+</head>
+
+<body onload="getText()">
+
+ <nav>
+  <div class="menu">
+   <ul>
+   <li><a href="../index.html">Home</a></li>
+   <li><a href="#" id="button2" class="button2">About</a></li>
+   <li><a href="#" id="button" class="button">Contact</a></li>
+   </ul>
+  </div>
+
+
+
+  <div class="bg-popContainer" id="bg-popContainer">
+    <div class="pop-box">
+     <p>Contact us</p>
+     <form action="/index.html" method="get">
+     <button id="closer">&times;</button>
+     <input type="text" name="name" placeholder="Name">
+     <input type="email" name="email" placeholder="E-mail">
+     <textarea placeholder="Message" name="message" cols="30" rows="5"></textarea>
+     <input class="buttonSubmit" id="bSubmit" type="submit" value="Submit">
+   </form>
+    </div>
+ </div>
+
+
+ <div class="bg-popContainer2" id="bg-popContainer2">
+   <div class="pop-box2">
+     <p>About</p>
+     <button id="closer2">&times;</button>
+     <p class="aboutMe">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vel elementum elit, vel venenatis nulla.
+      Nunc quis urna ac augue porttitor congue. Fusce ac nisi ac arcu consequat auctor. Donec fringilla 
+      volutpat dui in scelerisque. In semper facilisis massa in varius. Ut suscipit mi quis sapien elementum 
+      semper. Aliquam aliquam vulputate nibh. Curabitur et lacus enim. Praesent accumsan egestas ligula 
+      faucibus condimentum. Cras ac vestibulum turpis. Cras mauris arcu, eleifend eu enim et, ornare venenatis 
+      nibh. Cras maximus semper lobortis. Quisque faucibus diam ac blandit rutrum. Pellentesque at ex erat. 
+      Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+   </div>
+ </nav> 
+
+ <main>
+   <section class="preview">
+       <div class="content">
+       <h1 id="incardh"></h1>
+       
+       <div class="folder">
+         <div id="mainimg">
+           </div>
+       
+         <ul class="incardp" id="incardp"> </ul>
+       </div>
+      </div>
+   </section>
+
+
+   <footer class="foot">
+    <div class="container"></div>
+     <div class="footer-column">
+ 
+       <div class="footer-copywright">
+         <div class="footer-copywright-name">Lyudmila Yakovleva</div>
+         <p>Recipes ❘ Desserts</p>
+       </div>
+ 
+       <div class="footer-icons">
+         <p>Social Media</p>
+         <div class="footer-icons-column">
+ 
+           <a href="https://www.instagram.com/yakovleva.l.d/" width = 30px, height = 30px>
+            <img class='logo' src="../img/icons/instagram.png" alt="instagram">
+           </a>
+ 
+           <a href="https://youtu.be/i2y5w40U1Vw/" width = 30px, height = 30px>
+            <img src="../img/icons/youtube.png" alt="youtube">
+           </a>
+ 
+         </div>
+       </div>
+ 
+       
+     </div>
+   </footer>
+ </main>
+
+
+
+ 
+
+<script>
+  document.getElementById("button").addEventListener("click", function () {
+  document.querySelector(".bg-popContainer").style.display = "flex";
+});
+
+document.getElementById("closer").addEventListener("click", function () {
+  document.querySelector(".bg-popContainer").style.display = "none";
+});
+
+document.getElementById("closer2").addEventListener("click", function () {
+  document.querySelector(".bg-popContainer2").style.display = "none";
+});
+
+document.getElementById("button2").addEventListener("click", function () {
+  document.querySelector(".bg-popContainer2").style.display = "flex";
+});
+</script>
+ <script src="../scripts/script.js"></script>
+</body>
+
+</html>

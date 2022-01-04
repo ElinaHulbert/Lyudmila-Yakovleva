@@ -1,0 +1,353 @@
+[
+  {
+    "id": "1",
+
+    "Class": "cakes",
+
+    "Image": "<img src='../img/allsweets/cakes/Banana_Strawberry.jpg' alt='randomBakery'/>",
+
+    "Name": "Banana-Strawberry",
+
+    "Ingredients": [
+      "<h4>Sponge</h4>",
+      "<li>Eggs: 4</li>",
+      "<li>Flour: 150 gr</li>",
+      "<li>Sugar: 130 gr</li>",
+      "<li>Oil: 50 ml</li>",
+      "<li>Smashed Bananas: 150 gr</li>",
+      "<li>Baking Soda: 1 teaspoon</li>",
+
+      "<h4>Strawberry confit</h4>",
+      "<li>Strawberry: 200 gr</li>",
+      "<li>Sugar: 50 gr</li>",
+      "<li>Corn Starch: 2 teaspoons + 2 water teaspoons</li>",
+
+      "<h4>Creme</h4>",
+      "<li>Cream Cheese: 350 gr</li>",
+      "<li>Whipping Cream 33%: 200 ml</li>",
+      "<li>Powdered Sugar: 100 gr",
+
+      "<h4>Sugar Syrup</h4>",
+      "<li>Water: 100 ml</li>",
+      "<li>Powdered Sugar: 30 gr</li>",
+
+      "<h4>How to make</h4>",
+      "<li>Recipe</li>"
+    ]
+  },
+
+  {
+    "id": "2",
+
+    "Class": "cakes",
+
+    "Image": "<img src='../img/allsweets/cakes/Red_Velvet.png' alt='randomBakery'/>",
+
+    "Name": "Red Velvet",
+
+    "Ingredients": [
+      "<h4>Sponge</h4>",
+      "<li>Eggs: 3</li>",
+      "<li>Butter: 100 gr, room temperature</li>",
+      "<li>Sugar: 150-200 gr</li>",
+      "<li>Kefir: 250 ml, room temperature</li>",
+      "<li>Cocoa: 10 gr</li>",
+      "<li>Baking Soda: 1 teaspoon</li>",
+      "<li>Oil: 30 ml</li>",
+      "<li>Flour: 280 gr</li>",
+      "<li>Red color: 2 teaspoons</li>",
+
+      "<h4>Creme</h4>",
+      "<li>Cream Cheese: 300 gr</li>",
+      "<li>Butter: 100 gr</li>",
+      "<li>Powdered Sugar: 100 gr</li>",
+
+      "<h4>How to make</h4>",
+      "<li>Recipe</li>"
+    ]
+  },
+
+  {
+    "id": "3",
+
+    "Class": "cakes",
+
+    "Image": "<img src='../img/allsweets/cakes/Carrot_Cake.jpg' alt='randomBakery'/>",
+
+    "Name": "Carrot Cake",
+
+    "Ingredients": [
+      "<h4>Bread</h4>",
+      "<li>Eggs: 3</li>",
+      "<li>Flour: 150 gr</li>",
+      "<li>Sugar: 150 gr</li>",
+      "<li>Oil: 50 ml</li>",
+      "<li>Carrots: 200 gr</li>",
+
+      "<h4>Creme</h4>",
+      "<li>Cream Cheese: 300 gr</li>",
+      "<li>Butter: 100 gr</li>",
+      "<li>Powdered Sugar: 100 gr</li>",
+
+      "<h4>How to make</h4>",
+      "<li>Recipe</li>"
+    ]
+  },
+
+  {
+    "id": "4",
+
+    "Class": "cupcakes",
+
+    "Image": "<img src='../img/allsweets/cupcakes/Sneakers_Cupcakes.jpg' alt='randomBakery'/>",
+
+    "Name": "Sneakers Cupcakes",
+
+    "Ingredients": [
+      "<h4>Bread</h4>",
+      "<li>Eggs: 1</li>",
+      "<li>Flour: 80 gr</li>",
+      "<li>Sugar: 50 gr</li>",
+      "<li>Milk: 40 ml</li>",
+      "<li>Cocoa: 20 gr</li>",
+      "<li>Baking Soda: 1 teaspoon</li>",
+      "<li>Oil: 20 ml</li>",
+
+      "<h4>Creme</h4>",
+      "<li>Cream Cheese: 300 gr</li>",
+      "<li>Butter: 100 gr</li>",
+      "<li>Powdered Sugar: 100 gr</li>",
+
+      "<h4>Caramel</h4>",
+      "<li>Sugar: 150 gr</li>",
+      "<li>Whipping Cream 20-33%: 100 ml</li>",
+      "<li>Butter: 30 gr</li>",
+      "<li>Peanuts: 20 gr</li>",
+
+      "<h4>How to make:</h4>",
+      "<li>Recipe</li>"
+    ]
+  },
+
+  {
+    "id": "5",
+
+    "Class": "cupcakes",
+
+    "Image": "<img src='../img/allsweets/cupcakes/Chocolate_Cupcakes.png' alt='randomBakery'/>",
+
+    "Name": "Chocolate Cupcakes",
+
+    "Ingredients": [
+      "<h4>Bread</h4>",
+      "<li>Milk: 220 ml</li>",
+      "<li>Butter: 150 gr</li>",
+      "<li>Eggs: 1</li>",
+      "<li>Sugar: 150 gr</li>",
+      "<li>Flour: 200 gr</li>",
+      "<li>Cocoa: 40 gr</li>",
+      "<li>Baking Soda: 1 teaspoon</li>",
+      "<li>Chocolate: 50 gr</li>",
+
+      "<h4>How to make</h4>",
+      "<li>Recipe</li>"
+    ]
+  },
+
+  {
+    "id": "6",
+
+    "Class": "cupcakes",
+
+    "Image": "<img src='../img/allsweets/cupcakes/Strawberry_Muffins.png' alt='randomBakery'/>",
+
+    "Name": "Strawberry Muffins",
+
+    "Ingredients": [
+      "<h4>Ingredients</h4>",
+      "<li>Butter: 80 gr</li>",
+      "<li>Milk: 100 ml</li>",
+      "<li>Sugar: 150 gr</li>",
+      "<li>Eggs: 2</li>",
+      "<li>Flour: 240 gr</li>",
+      "<li>Baking Soda: 2 teaspoons</li>",
+      "<li>Strawberries: 50-100 gr</li>",
+
+      "<h4>How to make:</h4>",
+      "<li>Recipe</li>"
+    ]
+  },
+
+  {
+    "id": "7",
+
+    "Class": "cheesecakes",
+
+    "Image": "<img src='../img/allsweets/cheesecakes/choco_cheesecake.jpg' alt='randomBakery'/>",
+
+    "Name": "Choco Cheesecake",
+
+    "Ingredients": [
+      "<h4>Cookie</h4>",
+      "<li>Oats: 50 gr</li>",
+      "<li>Flour: 15 gr</li>",
+      "<li>Honey: 1 tablespoon</li>",
+      "<li>Oil: 2 tablespoons</li>",
+      "<li>Cocoa: 10 gr</li>",
+
+      "<h4>Cheese</h4>",
+      "<li>Cottage Cheese 0,2%: 500 gr</li>",
+      "<li>Honey: 1-2 tablespoons</li>",
+      "<li>Milk: 100 ml</li>",
+      "<li>Gelatin: 15 gr</li>",
+      "<li>Milk chocolate without sugar: 90 gr</li>",
+      "<li>Dark chocolate without sugar: 50 gr</li>",
+
+      "<h4>Decorations</h4>",
+      "<li>Milk chocolate without sugar: 90 gr</li>",
+      "<li>Milk: 60 ml</li>",
+
+      "<h4>How to make:</h4>",
+      "<li>Recipe</li>"
+    ]
+  },
+
+  {
+    "id": "8",
+
+    "Class": "cheesecakes",
+
+    "Image": "<img src='../img/allsweets/cheesecakes/raspberry_cheesecake.jpg' alt='randomBakery'/>",
+
+    "Name": "Raspberry Cheesecake",
+
+    "Ingredients": [
+      "<h4>Cookie</h4>",
+      "<li>Cookies: 230 gr</li>",
+      "<li>Butter: 100 gr</li>",
+
+      "<h4>Cheese</h4>",
+      "<li>Cream Cheese: 300 gr</li>",
+      "<li>Whipping Cream 33%: 150 ml</li>",
+      "<li>White Chocolate: 300 gr</li>",
+      "<li>Powdered Sugar: 40-50 g</li>",
+      "<li>Raspberries: 200 gr</li>",
+
+      "<h4>How to make:</h4>",
+      "<li>Recipe</li>"
+    ]
+  },
+
+  {
+    "id": "9",
+
+    "Class": "cheesecakes",
+
+    "Image": "<img src='../img/allsweets/cheesecakes/Cheesecake_SourCream.jpg' alt='randomBakery'/>",
+
+    "Name": "Cheesecake with Sour Cream",
+
+    "Ingredients": [
+      "<h4>Cookie</h4>",
+      "<li>Cookies: 100 gr</li>",
+      "<li>Melter Butter: 30 gr</li>",
+
+      "<h4>Cheese</h4>",
+      "<li>White Chocolate: 200 gr</li>",
+      "<li>Sour Creme 20%: 600 gr</li>",
+      "<li>Gelatin: 9 gr + 30 ml water</li>",
+
+      "<h4>How to make:</h4>",
+      "<li>Recipe</li>"
+    ]
+  },
+
+  {
+    "id": "10",
+
+    "Class": "other",
+
+    "Image": "<img src='../img/allsweets/other/brownie_sandwich.jpg' alt='randomBakery'/>",
+
+    "Name": "Brownie Sandwich",
+
+    "Ingredients": [
+      "<h4>Cookie</h4>",
+      "<li>Dark chocolate: 170 gr</li>",
+      "<li>Butter: 40 gr</li>",
+      "<li>Eggs C1: 2</li>",
+      "<li>Sugar: 100 gr</li>",
+      "<li>Flour: 80 gr</li>",
+      "<li>Baking Soda: 1 teaspoon</li>",
+      "<li>Sugar: 1 gr</li>",
+
+      "<h4>Creme</h4>",
+      "<li>Milk Chocolate: 200 gr</li>",
+      "<li>Whipping Cream 33%: 100 ml</li>",
+
+      "<h4>Frosting</h4>",
+      "<li>Milk Chocolate: 85 gr</li>",
+      "<li>Oil: 30 ml</li>",
+
+      "<h4>How to make:</h4>",
+      "<li>Recipe</li>"
+    ]
+  },
+
+  {
+    "id": "11",
+
+    "Class": "other",
+
+    "Image": "<img src='../img/allsweets/other/eclair.jpg' alt='randomBakery'/>",
+
+    "Name": "Eclair",
+
+    "Ingredients": [
+      "<h4>Bread</h4>",
+      "<li>Milk: 250 ml</li>",
+      "<li>Eggs: 4 big or 5 small</li>",
+      "<li>Flour: 160 gr</li>",
+      "<li>Butter: 100 gr</li>",
+      "<li>Sugar: 10 gr</li>",
+      "<li>Salt: a pinch</li>",
+
+      "<h4>Creme</h4>",
+      "<li>Milk: 300 ml</li>",
+      "<li>Sugar: 90 gr</li>",
+      "<li>Eggs: 2</li>",
+      "<li>Flour or corn starch: 30 gr</li>",
+      "<li>Pistachio pasta: 2 teaspoons</li>",
+      "<li>Vaselene: a pinch</li>",
+
+      "<h4>Frosting</h4>",
+      "<li>White Chocolate: 80 gr</li>",
+      "<li>Oil: 20 ml</li>",
+      "<li>Pistachio pasta: 1 teaspoon</li>",
+
+      "<h4>How to make:</h4>",
+      "<li>Recipe</li>"
+    ]
+  },
+
+  {
+    "id": "12",
+
+    "Class": "other",
+
+    "Image": "<img src='../img/allsweets/other/Coconut_Mousse.jpg' alt='randomBakery'/>",
+
+    "Name": "Coconut Mousse",
+
+    "Ingredients": [
+      "<h4>Ingredients</h4>",
+      "<li>Coconut Milk: 150 ml</li>",
+      "<li>Sour Creme 20%: 200 gr</li>",
+      "<li>White Chocolate: 180 gr</li>",
+      "<li>Coconut Shaving: 30 gr</li>",
+
+      "<h4>How to make:</h4>",
+      "<li>Recipe</li>"
+    ]
+  }
+]

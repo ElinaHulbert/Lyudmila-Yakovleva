@@ -1,0 +1,125 @@
+@media (max-width: 2560px) {
+  .folder {
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 5%;
+
+    #incardp {
+      padding-top: 0;
+      max-width: 800px;
+      font-size: 30px;
+    }
+  }
+
+  h1 {
+    font-size: 130px;
+    margin-bottom: 40px;
+  }
+
+  .footer-copywright-name {
+    font-size: 80px;
+  }
+
+  .footer-copywright p {
+    font-size: 40px;
+  }
+
+  .footer-icons p {
+    font-size: 40px;
+  }
+
+  a {
+    font-size: 40px;
+  }
+}
+
+@media (max-width: 1900px) {
+  .folder {
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 5%;
+    #incardp {
+      max-width: 700px;
+      padding-top: 0;
+    }
+  }
+
+  .footer-copywright-name {
+    font-size: 80px;
+  }
+
+  .footer-copywright p {
+    font-size: 25px;
+  }
+
+  .footer-icons p {
+    font-size: 25px;
+  }
+}
+
+@media (max-width: 1600px) {
+  .folder {
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 5%;
+    #incardp {
+      max-width: 900px;
+      padding-top: 0;
+      font-size: 20px;
+    }
+  }
+
+  h1 {
+    font-size: 110px;
+    margin-bottom: 20px;
+  }
+}
+
+@media (max-width: 1200px) {
+  a {
+    font-size: 30px;
+  }
+}
+
+@media (max-width: 700px) {
+  a {
+    font-size: 20px;
+  }
+  .recipeNav {
+    padding: 7% 15% 0 15%;
+  }
+  h1 {
+    font-size: 70px;
+    margin-bottom: 15px;
+  }
+
+  #sweets {
+    zoom: 0.7;
+  }
+
+  .folder #incardp {
+    font-size: 16px;
+  }
+
+  .footer-copywright p {
+    font-size: 16px;
+  }
+
+  .footer-icons p {
+    font-size: 16px;
+  }
+
+  .footer-copywright-name {
+    font-size: 50px;
+  }
+}
+
+@media (max-width: 400px) {
+  .recipeNav {
+    padding: 7% 15% 0 15%;
+  }
+
+  .footer-copywright {
+    padding-bottom: 40px;
+  }
+}

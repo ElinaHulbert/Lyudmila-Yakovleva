@@ -1,0 +1,75 @@
+@media (max-width: 2560px) {
+  a,
+  .clickable {
+    font-size: 40px;
+  }
+}
+
+@media (max-width: 1140px) {
+  .card {
+    width: calc(50% - 15px);
+  }
+
+  a,
+  .clickable {
+    font-size: 40px;
+  }
+}
+
+/* for screens less than 760px */
+
+@media (max-width: 760px) {
+  .header-title {
+    font-size: 60px;
+  }
+
+  .header-subtitle {
+    font-size: 17px;
+  }
+
+  .portfolio {
+    padding-bottom: 65px;
+    padding-top: 90px;
+  }
+
+  .portfolio-header {
+    font-size: 70px;
+  }
+
+  .card {
+    width: 100%;
+    padding: 15px;
+  }
+
+  .card-title {
+    font-size: 20px;
+    margin-bottom: 5px;
+  }
+
+  .card p {
+    font-size: 14px;
+  }
+
+  .portfolio-cards-wrapper {
+    justify-content: center;
+  }
+
+  .card:last-child,
+  .card:nth-last-child(2) {
+    /*pseudo selector*/
+    margin-bottom: 30px;
+  }
+
+  .footer-copywright-name {
+    text-align: center;
+  }
+
+  .footer-copywright {
+    padding-bottom: 40px;
+  }
+
+  a,
+  .clickable {
+    font-size: 20px;
+  }
+}
