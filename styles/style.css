@@ -262,7 +262,7 @@ textarea {
 
 .card p {
   font-size: 18px;
-  color: #af9e97;
+  color: #776760;
 }
 
 .portfolio-cards-wrapper {
@@ -280,7 +280,7 @@ a {
 /*Footer*/
 
 .foot {
-  background-color: #af9e97;
+  background-color: #3d2436;
   padding-top: 48px;
   padding-bottom: 80px;
 }
@@ -312,7 +312,7 @@ a {
 .footer-icons-column {
   display: flex;
   align-items: center;
-  background-color: #af9e97;
+  background-color: #3d2436;
   margin: 0;
   max-height: 30px;
 }

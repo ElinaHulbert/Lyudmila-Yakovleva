@@ -105,7 +105,7 @@ h4 {
 /*Footer*/
 
 .foot {
-  background-color: #af9e97;
+  background-color: #3d2436;
   padding-top: 2%;
   padding-bottom: 80px;
 }
@@ -139,7 +139,7 @@ h4 {
   display: flex;
   align-items: center;
   justify-content: space-around;
-  background-color: #af9e97;
+  background-color: #3d2436;
   margin: 0;
   max-height: 30px;
 }
