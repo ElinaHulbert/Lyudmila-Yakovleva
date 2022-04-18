@@ -280,7 +280,7 @@ a {
 /*Footer*/
 
 .foot {
-  background-color: #3d2436;
+  background-color: rgba(112, 86, 83);
   padding-top: 48px;
   padding-bottom: 80px;
 }
@@ -312,7 +312,7 @@ a {
 .footer-icons-column {
   display: flex;
   align-items: center;
-  background-color: #3d2436;
+  background-color: rgba(112, 86, 83);
   margin: 0;
   max-height: 30px;
 }
