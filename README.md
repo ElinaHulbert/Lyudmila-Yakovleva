@@ -1,4 +1,6 @@
 # The very first portfolio-project at Hyper Island
+##### :clock1130: Date: 
+September 2021
 ##### :muscle: What was my motivation?
 As the first project at Hyper Island we had to create a blog, but it felt too boring and I wanted to be able to refer to someone. Lyudmila has already had an established Instagram and it was easier for me to visualize the personality in that case. 
 ##### :books: What did I learn?
